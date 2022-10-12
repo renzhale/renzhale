@@ -1,6 +1,6 @@
 #### Hi, I’m @renzhale
- I’m interested in web development, coding, computers and tech in general
- I’m currently learning the python programming language and web development
+ I’m interested in web development, coding, computers, drones, photography and tech in general.
+ I’m currently learning the javascript and python programming languages and web development.
  
 #### 📫 How to reach me ...
      renz64@protonmail.com
