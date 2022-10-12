@@ -7,6 +7,7 @@
      @renzhale64 on Twitter
      @renz64 on Telegram
      renz64#2788 on Discord
+     renz64 on Slack
 
 <!---
 renzhale/renzhale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
