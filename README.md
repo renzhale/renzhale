@@ -5,7 +5,6 @@
 #### 📫 How to reach me ...
      renz64@protonmail.com
      @renzhale64 on Twitter
-     @renz64 on Telegram
      renz64#2788 on Discord
      renz64 on Slack
 
